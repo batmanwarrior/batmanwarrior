@@ -1,2 +1,2 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></br>
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDIzd2t2NTlyOTE4a25hOXJqcGdkN3hsYWIzaDJ6Y2hoZW15Y3FtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif">
