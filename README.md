@@ -1,1 +1,7 @@
-<img src="rainbow.gif" width="100%" height="20" />
+![batmanwarrior](img/rainbow.gif "BATMANWARRIOR")
+
+<style type="text/css">
+	img {
+		width: 100%;
+	}
+</style>
