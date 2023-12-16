@@ -1,1 +1,1 @@
-![](thiccrainbow.gif)
+![](girthrainbow.gif)
