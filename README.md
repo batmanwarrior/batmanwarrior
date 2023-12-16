@@ -1,1 +1,1 @@
-![batmanwarrior](rainbow.gif){ width=50% }
+![](rainbow.gif | width=200)
