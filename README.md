@@ -1,1 +1,1 @@
-![batmanwarrior](rainbow.gif "BATMANWARRIOR")
+<img src="rainbow.gif" width="100%" height="20" />
