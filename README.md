@@ -1,1 +1,1 @@
-![](rainbow.gif | width=200)
+![](rainbow.gif){: width="100%"}
